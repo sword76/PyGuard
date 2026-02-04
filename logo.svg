@@ -37,6 +37,6 @@
     </g>
 
     <!-- Подпись (опционально, можно убрать) -->
-    <text x="152" y="100" font-family="Inter, Roboto, Arial, sans-serif" font-size="18" fill="#3E2723" font-weight="700">АнонимДок</text>
+    <text x="152" y="100" font-family="Inter, Roboto, Arial, sans-serif" font-size="18" fill="#3E2723" font-weight="700">PyGuard Logo</text>
   </g>
 </svg>
